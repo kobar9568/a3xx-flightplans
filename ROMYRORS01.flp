@@ -1,0 +1,9 @@
+[CoRte]
+ArptDep=ROMY
+ArptArr=RORS
+RwyDep=ROMY22
+RwyArr=RORS17
+RwyArrFINAL=RORS17
+Airway1=V90
+Airway1FROM=SJE
+Airway1TO=MYC
