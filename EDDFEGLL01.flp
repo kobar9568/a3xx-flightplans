@@ -1,0 +1,24 @@
+[CoRte]
+ArptDep=EDDF
+ArptArr=EGLL
+DctWpt1=SOBRA
+DctWpt1Coordinates=49.860828,7.775560
+Airway2=Y180
+Airway2FROM=SOBRA
+Airway2TO=BITBU
+Airway3=Y181
+Airway3FROM=BITBU
+Airway3TO=MAKIK
+Airway4=UY181
+Airway4FROM=MAKIK
+Airway4TO=DEMUL
+Airway5=UM624
+Airway5FROM=DEMUL
+Airway5TO=BUB
+Airway6=UL608
+Airway6FROM=BUB
+Airway6TO=SUMUM
+Airway7=L608
+Airway7FROM=SUMUM
+Airway7TO=LOGAN
+Notes=Tutorial flight

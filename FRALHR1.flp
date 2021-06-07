@@ -1,0 +1,27 @@
+[CoRte]
+ArptDep=EDDF
+ArptArr=EGLL
+RwyDep=EDDF18
+RwyArr=EGLL09L
+RwyArrFINAL=ILS09L
+SID=SOBR1L
+STAR=LAM3A
+Airway1=Y180
+Airway1FROM=SOBRA
+Airway1TO=BITBU
+Airway2=Y181
+Airway2FROM=BITBU
+Airway2TO=MAKIK
+Airway3=UY181
+Airway3FROM=MAKIK
+Airway3TO=DEMUL
+Airway4=UM624
+Airway4FROM=DEMUL
+Airway4TO=BUB
+Airway5=UL608
+Airway5FROM=BUB
+Airway5TO=SUMUM
+Airway6=L608
+Airway6FROM=SUMUM
+Airway6TO=LOGAN
+Notes=Tutorial flight

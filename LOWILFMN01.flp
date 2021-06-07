@@ -1,0 +1,19 @@
+[CoRte]
+ArptDep=LOWI
+ArptArr=LFMN
+RwyDep=LOWI08
+RwyArr=LFMN04L
+RwyArrFINAL=ILS04L
+SID=BREN2J
+STAR=BORD6C
+APPR_Trans=NERAS
+Airway1=M726
+Airway1FROM=BRENO
+Airway1TO=NAXAV
+Airway2=M984
+Airway2FROM=NAXAV
+Airway2TO=EVANO
+Airway3=Z185
+Airway3FROM=EVANO
+Airway3TO=BORDI
+Notes=Tutorial flight
